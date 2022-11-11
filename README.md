@@ -2,6 +2,7 @@
 DBMS Major Assignment - Microsoft SQL 
 Spring Semester
 Database Management and Design High Distinction
+
 Task:
 Design a complete database using Microsoft SQL for a beauty salon. I also
 designed the GRD (Global Relation Diagram), ERD (Entity Relation Diagram)
