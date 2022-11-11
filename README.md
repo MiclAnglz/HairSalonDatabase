@@ -21,15 +21,15 @@ one therapist to another)
 • Store the details for the regular customers at the beauty salon and also the
 walk ins such as:
 
-  o treatment received
+  - treatment received
   
-  o date of treatment
+  - date of treatment
   
-  o price they paid for the treatment
+  - price they paid for the treatment
   
-  o the therapist that provided the treatment
+  - the therapist that provided the treatment
   
-  o customer details phone number, email, name, etc (walk in details
+  - customer details phone number, email, name, etc (walk in details
 were not stored)
 In total 7 tables were created with multiple foreign keys for data to be
 extracted accurately using complex and simple SQL queries.
