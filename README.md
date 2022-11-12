@@ -4,12 +4,12 @@ Spring Semester
 Database Management and Design
 
 Task:
-Design a complete database using Microsoft SQL for a beauty salon. I also
-designed the GRD (Global Relation Diagram), ERD (Entity Relation Diagram)
+Design a complete database using Microsoft SQL for a beauty salon. Including the GRD (Global Relation Diagram), ERD (Entity Relation Diagram)
 complete with entity dependencies, multiplicities and entity relations.
-The requirements for this project was to create a database that:
 
-• Stores all staff and their job positions in the beauty salon
+Rerquirements for the database:
+
+• Store all staff and their job positions in the beauty salon
 
 • Amongst the staff, define the staff that were therapist and the rates that
 they charge for specialised therapy they provided (not all therapist
