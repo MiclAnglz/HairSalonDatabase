@@ -1,13 +1,13 @@
 # HairSalonDatabase
-DBMS Major Assignment - Microsoft SQL 
+<strong>DBMS Major Assignment - Microsoft SQL 
 Spring Semester
-Database Management and Design
+Database Management and Design</strong>
 
-Task:
+<strong>Task:</strong>
 Design a complete database using Microsoft SQL for a beauty salon. Including the GRD (Global Relation Diagram), ERD (Entity Relation Diagram)
 complete with entity dependencies, multiplicities and entity relations.
 
-Rerquirements for the database:
+<strong>Rerquirements for the database:</strong>
 
 • Store all staff and their job positions in the beauty salon
 
