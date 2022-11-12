@@ -12,7 +12,9 @@ complete with entity dependencies, multiplicities and entity relations.
 • Store all staff and their job positions in the beauty salon
 
 • Amongst the staff, define the staff that were therapist and the rates that
-they charge for specialised therapy they provided (not all therapist
+they charge for specialised therapy they provided. 
+
+<strong>note: </strong>not all therapist
 performed specialised therapy and had hourly rates. Rates also differ from
 one therapist to another)
 
