@@ -16,7 +16,7 @@ they charge for specialised therapy they provided.
 
 <strong>note: </strong>not all therapist
 performed specialised therapy and had hourly rates. Rates also differ from
-one therapist to another)
+one therapist to another
 
 • Store all the treatments that were available at the salon and their price
 
@@ -33,5 +33,6 @@ walk ins such as:
   
   - customer details phone number, email, name, etc (walk in details
 were not stored)
+
 In total 7 tables were created with multiple foreign keys for data to be
 extracted accurately using complex and simple SQL queries.
