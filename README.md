@@ -1,7 +1,7 @@
 # HairSalonDatabase
 DBMS Major Assignment - Microsoft SQL 
 Spring Semester
-Database Management and Design High Distinction
+Database Management and Design
 
 Task:
 Design a complete database using Microsoft SQL for a beauty salon. I also
