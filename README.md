@@ -1,20 +1,22 @@
 # HairSalonDatabase
-DBMS Major Assignment - Microsoft SQL 
+<strong>DBMS Major Assignment - Microsoft SQL 
 Spring Semester
-Database Management and Design High Distinction
+Database Management and Design</strong>
 
-Task:
-Design a complete database using Microsoft SQL for a beauty salon. I also
-designed the GRD (Global Relation Diagram), ERD (Entity Relation Diagram)
+<strong>Task:</strong>
+Design a complete database using Microsoft SQL for a fictitious beauty salon. Include the GRD (Global Relation Diagram), ERD (Entity Relation Diagram)
 complete with entity dependencies, multiplicities and entity relations.
-The requirements for this project was to create a database that:
 
-• Stores all staff and their job positions in the beauty salon
+<strong>Rerquirements for the database:</strong>
+
+• Store all staff and their job positions in the beauty salon
 
 • Amongst the staff, define the staff that were therapist and the rates that
-they charge for specialised therapy they provided (not all therapist
+they charge for specialised therapy they provided. 
+
+<strong>note: </strong>not all therapist
 performed specialised therapy and had hourly rates. Rates also differ from
-one therapist to another)
+one therapist to another
 
 • Store all the treatments that were available at the salon and their price
 
@@ -31,5 +33,6 @@ walk ins such as:
   
   - customer details phone number, email, name, etc (walk in details
 were not stored)
+
 In total 7 tables were created with multiple foreign keys for data to be
 extracted accurately using complex and simple SQL queries.
