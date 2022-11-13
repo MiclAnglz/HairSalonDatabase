@@ -1,6 +1,6 @@
 <strong>Special Notes:</strong>
 
-- Please see "ProjectBrief" file for a more detailed view of the project specifications.
+- Please see the last page of the "ProjectBrief" file for a more detailed view of the project specifications.
 
 - The attached word document below displays the SQL queries that I created to extract data for the assignment questions.  
 
@@ -42,4 +42,4 @@ walk ins such as:
   - customer details phone number, email, name, etc (walk in details
 were not stored)
 
-In total 7 tables were created with multiple foreign keys created. Both complex and simple SQL queries were used to extract data accurately.
+In total 7 tables were created with multiple foreign keys. Both complex and simple SQL queries were used to extract data accurately.
