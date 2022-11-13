@@ -2,7 +2,9 @@
 
 - Please see "ProjectBrief" file for a more detailed view of the project specifications.
 
-- The attached word document 
+- The attached word document below displays the SQL queries that I created to extract data for the assignment questions.  
+
+(https://github.com/MiclAnglz/HairSalonDatabase/blob/main/DB_Assignment%202%20(final).docx) 
 
 # HairSalonDatabase
 <strong>DBMS Major Assignment - Microsoft SQL 
