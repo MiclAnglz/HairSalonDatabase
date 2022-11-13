@@ -1,3 +1,9 @@
+<strong>Special Notes:</strong>
+
+- Please see "ProjectBrief" file for a more detailed view of the project specifications.
+
+- The attached word document 
+
 # HairSalonDatabase
 <strong>DBMS Major Assignment - Microsoft SQL 
 Spring Semester
