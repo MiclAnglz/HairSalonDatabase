@@ -44,4 +44,4 @@ walk ins such as:
   - customer details phone number, email, name, etc (walk in details
 were not stored)
 
-In total 7 tables were created with multiple foreign keys. Both complex and simple SQL queries were used to extract data accurately.
+<strong>In total 7 tables were created.</strong>
