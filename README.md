@@ -18,25 +18,25 @@ Database Management and Design</strong>
 
 Database Requirements:
 
-Staff Information:
+<strong>1. Staff Information:<strong>
 Maintain a repository of all staff members along with their respective job positions within the beauty salon.
 
-Therapist Specialization and Rates:
+<strong>2.Therapist Specialization and Rates:<strong>
 Distinguish among the staff members who serve as therapists and outline the rates associated with specialized therapies they offer. Notably, not all therapists provide specialized therapy, and the hourly rates can vary between therapists.
 
-Treatments Catalog:
+<strong>3.Treatments Catalog:<strong>
 Catalog all available treatments offered by the salon, including their corresponding prices.
 
-Customer Profiles:
+<strong>4.Customer Profiles:<strong>
 Store comprehensive details of both regular customers and walk-ins, encompassing attributes such as contact information (phone number, email, name), and treatment history.
 
-Treatment Records:
+<strong>5.Treatment Records:<strong>
 Record details for each customer's treatment, capturing information such as the specific treatment received, date of treatment, price paid, and the therapist responsible.
 
-Entity Relations:
+<strong>6.Entity Relations:<strong>
 Establish clear relationships among the different entities, ensuring accurate representation of their associations and interactions within the salon's operations.
 
-Entity Dependencies and Multiplicities:
+<strong>7.Entity Dependencies and Multiplicities:<strong>
 Thoroughly define the dependencies between various entities, outlining their corresponding multiplicities to facilitate a comprehensive understanding of data relationships.
 
-In summation, a total of seven tables were mecreated to effectively capture the diverse aspects of the beauty salon's operations, providing a robust foundation for the database solution.
+In total of seven tables were mecreated to effectively capture the diverse aspects of the beauty salon's operations, providing a robust foundation for the database solution.
