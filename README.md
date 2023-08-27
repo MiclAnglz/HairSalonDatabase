@@ -1,10 +1,10 @@
 <strong>Special Notes:</strong>
 
-- Please see the last page of the "ProjectBrief" file for a more detailed view of the project specifications.
+- For a more comprehensive understanding of the project specifications, kindly refer to the final page of the "ProjectBrief" document.s.
 
-- This project was meant to be completed in a group, however; due to covid restrictions, it was very difficult to group up with other classmates as pracs/labs were fully remote. This project was completed by myself.
+- While originally intended as a group effort, the challenges posed by COVID-19 restrictions necessitated remote collaboration. As a result, the project was undertaken and executed individually.
 
-- The attached word document below displays the SQL queries that I created to extract data for the assignment questions.  
+- To gain insight into the SQL queries formulated to extract data for the assignment questions, please refer to the attached Word document provided below..  
 
 (https://github.com/MiclAnglz/HairSalonDatabase/blob/main/DB_Assignment%202%20(final).docx) 
 
