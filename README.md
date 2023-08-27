@@ -46,4 +46,4 @@ Establish clear relationships among the different entities, ensuring accurate re
 
 Thoroughly define the dependencies between various entities, outlining their corresponding multiplicities to facilitate a comprehensive understanding of data relationships.
 
-<i>In total of seven tables were mecreated to effectively capture the diverse aspects of the beauty salon's operations, providing a robust foundation for the database solution.</i>
+<strong><i>In total of seven tables were mecreated to effectively capture the diverse aspects of the beauty salon's operations, providing a robust foundation for the database solution.</i></strong>
